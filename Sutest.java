@@ -9,9 +9,9 @@ public class Sutest{
 
 				fillNextNumWithDuplicateCheckNineTimes(i, j);
 
+				printArray();
 
 				//look the activity inside of array
-				printArray();
 			}
 		}
 	}
